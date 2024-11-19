@@ -41,10 +41,3 @@ import { exec } from "https://denopkg.com/ekaragodin/deno_extra@v1.2.0/process/m
 exec("ls -l");
 ```
 
-## Contributing
-
-Follow the [style guide](https://deno.land/style_guide.html).
-
-## License
-
-MIT © [Evgenii Karagodin](https://ekaragodin.com)
